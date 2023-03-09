@@ -1,2 +1,10 @@
 # OSTheoryandConcepts
 Powerpoint I created teaching Operating System Theory and Concepts, basic security techniques and common security threats
+-OPERATING SYSTEMS THEORY
+-MAJOR FUNCTIONALITIES OF OS
+-MEMORY MANAGEMENT
+-STORAGE FILE MANAGEMENT
+-PROCESS MANAGEMENT
+-DEVICE AND RESOURCE MANAGEMENT
+-ACCESS CONTROL
+-OS SECURITY THREATS
